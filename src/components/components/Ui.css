@@ -1,0 +1,17 @@
+.selected{
+    background-color: rgba(0, 1, 8, 0.322) !important;
+    color: white !important;
+    border-radius: 50% !important;
+}
+.notselected{
+    color: black !important;
+}
+.deleteselected{
+    background-color: rgba(203, 15, 15, 0.864) !important;
+    color: white !important;
+    border-radius: 5% !important;
+    margin-right: 5% !important;
+}
+.buttons{
+  margin-bottom: 10% !important;  
+}
